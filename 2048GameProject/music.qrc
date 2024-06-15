@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>keyTone.wav</file>
+        <file>supermario.wav</file>
+    </qresource>
+</RCC>

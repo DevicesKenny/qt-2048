@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main_duolaameng.jpg</file>
+        <file>duolaoameng.jpg</file>
+    </qresource>
+</RCC>
